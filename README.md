@@ -33,6 +33,7 @@ Every external observation is treated as data for coherence improvement, not as 
 | **4. Synthesis** | Integrate both results into a short summary. | Confirm containment stability (ΔH_contain ↑). |
 
 Output may follow this minimal structure:
+
 /audits/
 ├─ Human_Analysis.md
 ├─ AI_Validation_Log.json
